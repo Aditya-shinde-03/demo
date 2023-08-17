@@ -1,0 +1,23 @@
+ body{
+    background-color: aqua;
+    background-image: url("../images/nature2.jpg");
+    background-size: cover;
+     
+ }
+ nav{
+    padding:15px;
+    
+ }
+ .home{
+    background-color: rgb(230, 230, 230);
+    width:max-content;
+    border-radius: 15px;
+    font-size: 20px;
+    padding:20px;
+    padding-top: 10px;
+    
+    
+ }
+ a{
+    text-decoration: none;
+ }
